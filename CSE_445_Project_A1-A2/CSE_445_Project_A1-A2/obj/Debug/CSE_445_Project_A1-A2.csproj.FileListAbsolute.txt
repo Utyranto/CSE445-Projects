@@ -1,0 +1,7 @@
+C:\Users\riley\source\repos\CSE_445_Project_A1-A2\CSE_445_Project_A1-A2\bin\CSE_445_Project_A1-A2.dll.config
+C:\Users\riley\source\repos\CSE_445_Project_A1-A2\CSE_445_Project_A1-A2\bin\CSE_445_Project_A1-A2.dll
+C:\Users\riley\source\repos\CSE_445_Project_A1-A2\CSE_445_Project_A1-A2\bin\CSE_445_Project_A1-A2.pdb
+C:\Users\riley\source\repos\CSE_445_Project_A1-A2\CSE_445_Project_A1-A2\obj\Debug\CSE_445_Project_A1-A2.csproj.AssemblyReference.cache
+C:\Users\riley\source\repos\CSE_445_Project_A1-A2\CSE_445_Project_A1-A2\obj\Debug\CSE_445_Project_A1-A2.csproj.CoreCompileInputs.cache
+C:\Users\riley\source\repos\CSE_445_Project_A1-A2\CSE_445_Project_A1-A2\obj\Debug\CSE_445_Project_A1-A2.dll
+C:\Users\riley\source\repos\CSE_445_Project_A1-A2\CSE_445_Project_A1-A2\obj\Debug\CSE_445_Project_A1-A2.pdb

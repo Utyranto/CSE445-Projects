@@ -1,0 +1,11 @@
+C:\Users\riley\source\repos\CSE_445_Project_A1-A2\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\riley\source\repos\CSE_445_Project_A1-A2\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\riley\source\repos\CSE_445_Project_A1-A2\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\riley\source\repos\CSE_445_Project_A1-A2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\riley\source\repos\CSE_445_Project_A1-A2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\riley\source\repos\CSE_445_Project_A1-A2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\riley\source\repos\CSE_445_Project_A1-A2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\riley\source\repos\CSE_445_Project_A1-A2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\riley\source\repos\CSE_445_Project_A1-A2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\riley\source\repos\CSE_445_Project_A1-A2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\riley\source\repos\CSE_445_Project_A1-A2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
