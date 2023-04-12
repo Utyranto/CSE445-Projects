@@ -1,0 +1,11 @@
+C:\Users\riley\source\repos\RileyThanWebsite\RileyThanBrowser\bin\Debug\RileyThanBrowser.exe.config
+C:\Users\riley\source\repos\RileyThanWebsite\RileyThanBrowser\bin\Debug\RileyThanBrowser.exe
+C:\Users\riley\source\repos\RileyThanWebsite\RileyThanBrowser\bin\Debug\RileyThanBrowser.pdb
+C:\Users\riley\source\repos\RileyThanWebsite\RileyThanBrowser\obj\Debug\RileyThanBrowser.csproj.AssemblyReference.cache
+C:\Users\riley\source\repos\RileyThanWebsite\RileyThanBrowser\obj\Debug\RileyThanBrowser.csproj.SuggestedBindingRedirects.cache
+C:\Users\riley\source\repos\RileyThanWebsite\RileyThanBrowser\obj\Debug\RileyThanBrowser.Form1.resources
+C:\Users\riley\source\repos\RileyThanWebsite\RileyThanBrowser\obj\Debug\RileyThanBrowser.Properties.Resources.resources
+C:\Users\riley\source\repos\RileyThanWebsite\RileyThanBrowser\obj\Debug\RileyThanBrowser.csproj.GenerateResource.cache
+C:\Users\riley\source\repos\RileyThanWebsite\RileyThanBrowser\obj\Debug\RileyThanBrowser.csproj.CoreCompileInputs.cache
+C:\Users\riley\source\repos\RileyThanWebsite\RileyThanBrowser\obj\Debug\RileyThanBrowser.exe
+C:\Users\riley\source\repos\RileyThanWebsite\RileyThanBrowser\obj\Debug\RileyThanBrowser.pdb
